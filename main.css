@@ -1,5 +1,5 @@
 body{
-  background-color:lightblue;
+  background-image:linear-gradient(palegreen,aquamarine,honeydew);
 }
 header{
   margin:0;
@@ -27,7 +27,7 @@ nav li{
 }
 nav a{
   color: honeydew;
-  text-decoration: wavy underline azure;
+  text-decoration: wavy underline, azure;
   text-transform: lowercase;
   font-family: apple chancery, cursive;
 }
