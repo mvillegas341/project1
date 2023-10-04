@@ -32,27 +32,36 @@ nav a{
   font-family: Bookman, serif;
 }
 #about{
-  font-size:32px;
+  font-size:25px;
   
 }
 #intro{
-  
+  font-size:20px;
+  text-transform: lowercase;
+  font-family: Bookman, serif;
 }
 #me{
-  
+   font-size:32px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
 }
 #whatDrawn{
+  font-size:32px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
   
 }
 table, th, td{
   border: 1px solid;
   text-align: center;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
   
 }
 th{
-  background-color:greenyellow;
+  background-color:salmon;
   color:white;
 }
-tr:hover{background-color:lime;}
+tr:hover{background-color:lightcoral;}
 
 
