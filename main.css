@@ -204,11 +204,14 @@ figcaption{
 
 
 #inspoT{
-  
+   text-transform: lowercase;
+  font-family: Bookman, serif;
 }
 
 #claudeFS{
-  
+  font-size:18px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
 }
 
 #monetT{
@@ -247,7 +250,9 @@ figcaption{
 }
 
 #itoFS{
-  
+  font-size:18px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
 }
 #itoIMG1{
    display: block;
@@ -266,7 +271,12 @@ figcaption{
   background-color:yellow;
 }
 #iVm{
-  
+  background:turquoise;
+  padding:20px;
+}
+#ivmUl{
+  background:mediumturquoise;
+  padding:20px;
 }
 
 
