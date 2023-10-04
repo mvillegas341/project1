@@ -29,5 +29,7 @@ nav a{
   color: honeydew;
   text-decoration: wavy underline azure;
   text-transform: lowercase;
-  font-family: apple chancery cursive;
+  font-family: apple chancery, cursive;
 }
+
+
