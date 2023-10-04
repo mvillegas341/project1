@@ -35,5 +35,24 @@ nav a{
   font-size:32px;
   
 }
+#intro{
+  
+}
+#me{
+  
+}
+#whatDrawn{
+  
+}
+table, th, td{
+  border: 1px solid;
+  text-align: center;
+  
+}
+th{
+  background-color:greenyellow;
+  color:white;
+}
+tr:hover{background-color:lime;}
 
 
