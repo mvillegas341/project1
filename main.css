@@ -128,4 +128,77 @@ figcaption{
 }
 
 
+#AC{
+  font-size:32px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+}
+#AC1{
+  font-size:20px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+  background-color:snow;
+  border-radius: 25px;
+  width: 200px;
+  height: 150px;
+}
+#AC2{
+  font-size:20px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+  background-color:snow;
+  border-radius: 25px;
+  width: 200px;
+  height: 150px;
+}
+#ACimg1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#ACimg2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#ACimg3{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#ACimg4{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#ACimg5{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#ACimg6{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+
+
 
