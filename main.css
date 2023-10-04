@@ -22,6 +22,12 @@ nav ul{
 nav li{
   display: inline-block;
   text-align: center;
-  margin-left: 70px;
+  margin-right: 70px;
   padding-top: 25px;
+}
+nav a{
+  color: honeydew;
+  text-decoration: wavy underline azure;
+  text-transform: lowercase;
+  font-family: apple chancery cursive;
 }
