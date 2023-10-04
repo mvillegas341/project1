@@ -27,9 +27,9 @@ nav li{
 }
 nav a{
   color: dodgerblue;
-  text-decoration: wavy underline, azure;
+  text-decoration-style: wavy;
   text-transform: lowercase;
-  font-family: apple chancery, cursive;
+  font-family: Bookman, serif;
 }
 
 
