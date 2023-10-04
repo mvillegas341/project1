@@ -85,6 +85,7 @@ h3{
   font-size:20px;
    text-transform: lowercase;
   font-family: Bookman, serif;
+  background-color:snow;
   
 }
 figcaption{
@@ -99,6 +100,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
+  background-color:yellow;
 }
 #eaimg2{
    display: block;
