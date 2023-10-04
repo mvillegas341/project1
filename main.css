@@ -202,3 +202,71 @@ figcaption{
 
 
 
+
+#inspoT{
+  
+}
+
+#claudeFS{
+  
+}
+
+#monetT{
+  font-size:20px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+  background-color:snow;
+  border-radius: 25px;
+  width: 200px;
+  height: 150px;
+}
+#monetIMG1{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#monetIMG2{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#itoT{
+  font-size:20px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+  background-color:snow;
+  border-radius: 25px;
+  width: 200px;
+  height: 150px;
+}
+
+#itoFS{
+  
+}
+#itoIMG1{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#itoIMG2{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#iVm{
+  
+}
+
+
