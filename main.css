@@ -2,6 +2,7 @@ body{
   background-color:lightblue;
 }
 header{
-  margin-left: 80px;
+  margin:0;
+  padding:0;
   background:palegreen;
 }
