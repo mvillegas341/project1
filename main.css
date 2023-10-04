@@ -3,8 +3,11 @@ body{
 }
 header{
   margin:0;
-  padding:0;
-  background:palegreen;
+  background:snow;
+  border-radius: 25px;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
 }
 header::after{
   content: '';
@@ -65,5 +68,33 @@ th{
   color:white;
 }
 tr:hover{background-color:lightcoral;}
+
+
+
+#ea1{
+  
+}
+#ea2{
+  
+}
+h3{
+  
+}
+figcaption{
+  
+}
+#eaimg1{
+  
+}
+#eaimg2{
+  
+}
+#eaimg3{
+  
+}
+#eaimg4{
+  
+}
+
 
 
