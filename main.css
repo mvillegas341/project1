@@ -6,3 +6,11 @@ header{
   padding:0;
   background:palegreen;
 }
+header::after{
+  content: '';
+  display: table;
+  clear: both;
+}
+nav{
+  float: right;
+}
