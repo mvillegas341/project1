@@ -1,6 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-<link rel="stylesheet" href="main.css">
+ <!-- This is the link to the main stylesheet. -->	 
+  <link id='csslink' rel="stylesheet" href="main.css" />
+
+	<!-- Next is the JavaScript code that makes the "Switch Style" button work. -->
+   <script>
+	    function toggleCSS() {
+          // Obtains the <link> element that links to the css (by using its id).
+          var currentCSS = document.getElementById('csslink');
+
+          // Change the value of href attribute to change the css file.
+          if (currentCSS.getAttribute('href') == 'main.css') {
+            currentCSS.setAttribute('href', 'alternate.css');
+          } else {
+            currentCSS.setAttribute('href', 'main.css');
+          }
+      }
+  </script>
+
+
+
 
 <div class="topnav">
 	<a class="active" href="index.html">Home page</a>
