@@ -1,5 +1,5 @@
 body{
-  background-image: linear-gradient(palegreen,aquamarine,lightseagreen);
+  background-image: linear-gradient(lightskyblue,skyblue,powderblue);
 }
 header{
   margin:0;
@@ -26,7 +26,7 @@ nav li{
   padding-top: 25px;
 }
 nav a{
-  color: dodgerblue;
+  color: mediumslateblue;
   text-decoration-style: wavy;
   text-transform: lowercase;
   font-family: Bookman, serif;
