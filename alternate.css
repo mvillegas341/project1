@@ -156,12 +156,14 @@ figcaption{
  display: block;
   margin-right: auto;
   border-radius: 50px 20px 50px 20px;
-  filter: drop-shadow(20px 20px 10px green);
+  filter: drop-shadow(20px 20px 10px dimgray);
 }
 #ACimg2{
   display: block;
   margin-left: auto;
   border-radius: 20px 50px 20px 50px;
+  filter: drop-shadow(-20px -20px 10px dimgray);
+  
 }
 #ACimg3{
  display: block;
