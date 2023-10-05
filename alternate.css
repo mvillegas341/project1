@@ -26,6 +26,7 @@ nav a{
   color: ghostwhite;
   text-transform: uppercase;
   font-family: Bradley, cursive;
+  text-shadow:5px 5px 1px darkred;
 }
 #about{
   font-size:25px;
