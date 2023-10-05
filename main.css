@@ -103,7 +103,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
-  background-color:yellow;
+  filter: drop-shadow(20px 20px  yellow);
 }
 #eaimg2{
    display: block;
@@ -111,6 +111,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
+  filter: drop-shadow(20px 20px  yellow);
 }
 #eaimg3{
    display: block;
@@ -118,6 +119,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
+  filter: drop-shadow(20px 20px  yellow);
 }
 #eaimg4{
    display: block;
@@ -125,6 +127,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
+  filter: drop-shadow(20px 20px  yellow);
 }
 
 
@@ -157,7 +160,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
-  background-color:yellow;
+  filter: drop-shadow(20px 20px  yellow);
 }
 #ACimg2{
   display: block;
@@ -165,7 +168,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
-  background-color:yellow;
+  filter: drop-shadow(20px 20px  yellow);
 }
 #ACimg3{
   display: block;
@@ -173,7 +176,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
-  background-color:yellow;
+  filter: drop-shadow(20px 20px  yellow);
 }
 #ACimg4{
   display: block;
@@ -181,7 +184,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
-  background-color:yellow;
+  filter: drop-shadow(20px 20px  yellow);
 }
 #ACimg5{
   display: block;
@@ -189,7 +192,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
-  background-color:yellow;
+  filter: drop-shadow(20px 20px  yellow);
 }
 #ACimg6{
   display: block;
@@ -197,7 +200,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
-  background-color:yellow;
+  filter: drop-shadow(20px 20px  yellow);
 }
 
 
@@ -229,7 +232,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
-  background-color:yellow;
+  filter: drop-shadow(20px 20px  yellow);
 }
 #monetIMG2{
    display: block;
@@ -237,7 +240,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
-  background-color:yellow;
+  filter: drop-shadow(20px 20px  yellow);
 }
 #itoT{
   font-size:20px;
@@ -260,7 +263,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
-  background-color:yellow;
+  filter: drop-shadow(20px 20px  yellow);
 }
 #itoIMG2{
    display: block;
@@ -268,7 +271,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
-  background-color:yellow;
+  filter: drop-shadow(20px 20px  yellow);
 }
 #iVm{
   background:turquoise;
