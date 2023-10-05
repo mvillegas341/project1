@@ -108,6 +108,7 @@ figcaption{
    display: block;
   margin-right: auto;
   border-radius: 50px 20px 50px 20px;
+  filter: drop-shadow(-20px -20px 10px crimson);
   
  
 }
@@ -115,6 +116,7 @@ figcaption{
    display: block;
   margin-left: auto;
   border-radius: 20px 50px 20px 50px;
+  filter: drop-shadow(-20px -20px 10px crimson);
   
  
 }
@@ -122,12 +124,14 @@ figcaption{
    display: block;
   margin-right: auto;
   border-radius: 50px 20px 50px 20px;
+  filter: drop-shadow(-20px -20px 10px crimson);
   
 }
 #eaimg4{
    display: block;
   margin-left: auto;
   border-radius: 20px 50px 20px 50px;
+  filter: drop-shadow(-20px -20px 10px crimson);
   
   
 }
@@ -139,79 +143,84 @@ figcaption{
   text-transform: uppercase;
   font-family: Bradley, cursive;
   color:whitesmoke;
+  text-shadow: 0 0 6px red, 0 0 6px purple;
 }
 #AC1{
   font-size:20px;
   text-transform: uppercase;
   font-family: Bradley, cursive;
   color:whitesmoke;
+  text-shadow: 0 0 3px red, 0 0 6px purple;
 }
 #AC2{
   font-size:20px;
  text-transform: uppercase;
   font-family: Bradley, cursive;
   color:whitesmoke;
+  text-shadow: 0 0 9px red, 0 0 6px purple;
 }
 #ACimg1{
  display: block;
   margin-right: auto;
   border-radius: 50px 20px 50px 20px;
-  filter: drop-shadow(-20px -20px 10px crimson,darkred);
+  filter: drop-shadow(-20px -20px 10px crimson);
 }
 #ACimg2{
   display: block;
   margin-left: auto;
   border-radius: 20px 50px 20px 50px;
-  filter: drop-shadow(-20px -20px 10px crimson,darkred);
+  filter: drop-shadow(-20px -20px 10px crimson);
   
 }
 #ACimg3{
  display: block;
   margin-right: auto;
   border-radius: 50px 20px 50px 20px;
-  filter: drop-shadow(-20px -20px 10px crimson,darkred);
+  filter: drop-shadow(-20px -20px 10px crimson);
 }
 #ACimg4{
  display: block;
   margin-left: auto;
   border-radius: 20px 50px 20px 50px;
-  filter: drop-shadow(-20px -20px 10px crimson,darkred);
+  filter: drop-shadow(-20px -20px 10px crimson);
 }
 #ACimg5{
   display: block;
   margin-right: auto;
   border-radius: 50px 20px 50px 20px;
-  filter: drop-shadow(-20px -20px 10px crimson,darkred);
+  filter: drop-shadow(-20px -20px 10px crimson);
 }
 #ACimg6{
   display: block;
   margin-left: auto;
   border-radius: 20px 50px 20px 50px;
-  filter: drop-shadow(-20px -20px 10px crimson,darkred);
+  filter: drop-shadow(-20px -20px 10px crimson);
 }
 
 
 
 
 #inspoT{
-   text-transform: lowercase;
-  font-family: Bookman, serif;
+   font-size:32px;
+  text-transform: uppercase;
+  font-family: Bradley, cursive;
+  color:whitesmoke;
+  text-shadow: 0 0 3px red, 0 0 9px purple;
 }
 
 #claudeFS{
-  font-size:18px;
-   text-transform: lowercase;
-  font-family: Bookman, serif;
+  font-size:20px;
+  text-transform: uppercase;
+  font-family: Bradley, cursive;
+  color:whitesmoke;
 }
 
 #monetT{
   font-size:20px;
-   text-transform: lowercase;
-  font-family: Bookman, serif;
-  background-color:snow;
-  border-radius: 25px;
-  width: 200px;
-  height: 150px;
+  text-transform: uppercase;
+  font-family: Bradley, cursive;
+  color:whitesmoke;
+  text-shadow: 0 0 9px red, 0 0 3px purple;
 }
 #monetIMG1{
    display: block;
@@ -219,7 +228,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
-  background-color:yellow;
+  filter: drop-shadow(-20px -20px 10px crimson);
 }
 #monetIMG2{
    display: block;
@@ -227,22 +236,21 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
-  background-color:yellow;
+  filter: drop-shadow(-20px -20px 10px crimson);
 }
 #itoT{
   font-size:20px;
-   text-transform: lowercase;
-  font-family: Bookman, serif;
-  background-color:snow;
-  border-radius: 25px;
-  width: 200px;
-  height: 150px;
+  text-transform: uppercase;
+  font-family: Bradley, cursive;
+  color:whitesmoke;
+  text-shadow: 0 0 6px red, 0 0 6px purple;
 }
 
 #itoFS{
   font-size:18px;
-   text-transform: lowercase;
-  font-family: Bookman, serif;
+  text-transform: uppercase;
+  font-family: Bradley, cursive;
+  color:whitesmoke;
 }
 #itoIMG1{
    display: block;
@@ -250,7 +258,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
-  background-color:yellow;
+ filter: drop-shadow(-20px -20px 10px crimson);
 }
 #itoIMG2{
    display: block;
@@ -258,7 +266,7 @@ figcaption{
   margin-right: auto;
   width: 50%;
   border-radius: 50%;
-  background-color:yellow;
+  filter: drop-shadow(-20px -20px 10px crimson);
 }
 #iVm{
   background:turquoise;
