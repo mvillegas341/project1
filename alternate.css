@@ -223,19 +223,15 @@ figcaption{
   text-shadow: 0 0 9px red, 0 0 3px purple;
 }
 #monetIMG1{
-   display: block;
-  margin-left: auto;
+  display: block;
   margin-right: auto;
-  width: 50%;
-  border-radius: 50%;
+  border-radius: 50px 20px 50px 20px;
   filter: drop-shadow(-20px -20px 10px crimson);
 }
 #monetIMG2{
-   display: block;
+  display: block;
   margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  border-radius: 50%;
+  border-radius: 20px 50px 20px 50px;
   filter: drop-shadow(-20px -20px 10px crimson);
 }
 #itoT{
@@ -253,36 +249,45 @@ figcaption{
   color:whitesmoke;
 }
 #itoIMG1{
-   display: block;
-  margin-left: auto;
+  display: block;
   margin-right: auto;
-  width: 50%;
-  border-radius: 50%;
+  border-radius: 50px 20px 50px 20px;
  filter: drop-shadow(-20px -20px 10px crimson);
 }
 #itoIMG2{
-   display: block;
+display: block;
   margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  border-radius: 50%;
+  border-radius: 20px 50px 20px 50px;
+  width:50%;
   filter: drop-shadow(-20px -20px 10px crimson);
 }
 #iVm{
-  background:turquoise;
-  padding:20px;
-  text-transform: lowercase;
-  font-family: Bookman, serif;
+    font-size:20px;
+  text-transform: uppercase;
+  font-family: Bradley, cursive;
+  color:whitesmoke;
+  text-shadow: 0 0 9px red, 0 0 3px purple;
 }
 #ivmUl{
-  background:mediumturquoise;
-  padding:20px;
+    font-size:20px;
+  text-transform: uppercase;
+  font-family: Bradley, cursive;
+  color:whitesmoke;
+  text-shadow: 0 0 9px red, 0 0 3px purple;
 }
 ivm > li{
-  background:paleturquoise;
+   font-size:20px;
+  text-transform: uppercase;
+  font-family: Bradley, cursive;
+  color:whitesmoke;
+  text-shadow: 0 0 9px red, 0 0 3px purple;
 }
 #ivmUl2{
-  background:paleturquoise;
+    font-size:20px;
+  text-transform: uppercase;
+  font-family: Bradley, cursive;
+  color:whitesmoke;
+  text-shadow: 0 0 9px red, 0 0 3px purple;
 }
 
 
