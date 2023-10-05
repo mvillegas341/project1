@@ -79,6 +79,7 @@ tr:hover{background-color:darkmagenta;}
   font-size:32px;
    text-transform: uppercase;
   font-family: Bradley, cursive;
+  color:whitesmoke;
 }
 #ea2{
   font-size:28px;
@@ -102,26 +103,28 @@ figcaption{
 }
 #eaimg1{
    display: block;
-  
   margin-right: auto;
+  border-radius: 50px 20px 50px 20px;
   
  
 }
 #eaimg2{
    display: block;
   margin-left: auto;
+  border-radius: 20px 50px 20px 50px;
   
  
 }
 #eaimg3{
    display: block;
-  
   margin-right: auto;
+  border-radius: 50px 20px 50px 20px;
   
 }
 #eaimg4{
    display: block;
   margin-left: auto;
+  border-radius: 20px 50px 20px 50px;
   
   
 }
