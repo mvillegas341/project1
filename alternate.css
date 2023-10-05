@@ -21,17 +21,20 @@ nav li{
   display: inline-block;
   text-align: center;
   padding-top: 25px;
+  margin-right:30px;
 }
 nav a{
   color: ghostwhite;
   text-transform: uppercase;
   font-family: Bradley, cursive;
-  text-shadow:5px 5px 1px darkred;
+  text-shadow:0px 0px 3px darkred;
 }
 #about{
   font-size:25px;
-   text-transform: lowercase;
-  font-family: Bookman, serif;
+   text-transform: uppercase;
+  font-family: Bradley, cursive;
+  background-color:slategray;
+  color:whitesmoke;
   
 }
 #intro{
