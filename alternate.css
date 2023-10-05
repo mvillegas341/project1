@@ -226,13 +226,13 @@ figcaption{
   display: block;
   margin-right: auto;
   border-radius: 50px 20px 50px 20px;
-  filter: drop-shadow(-20px -20px 10px crimson);
+  width:75%;
 }
 #monetIMG2{
   display: block;
   margin-left: auto;
   border-radius: 20px 50px 20px 50px;
-  filter: drop-shadow(-20px -20px 10px crimson);
+  width:75%;
 }
 #itoT{
   font-size:20px;
@@ -252,14 +252,14 @@ figcaption{
   display: block;
   margin-right: auto;
   border-radius: 50px 20px 50px 20px;
- filter: drop-shadow(-20px -20px 10px crimson);
+ width:75%;
 }
 #itoIMG2{
 display: block;
   margin-left: auto;
   border-radius: 20px 50px 20px 50px;
-  width:50%;
-  filter: drop-shadow(-20px -20px 10px crimson);
+  width:75%;
+  
 }
 #iVm{
     font-size:20px;
