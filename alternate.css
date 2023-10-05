@@ -156,34 +156,38 @@ figcaption{
  display: block;
   margin-right: auto;
   border-radius: 50px 20px 50px 20px;
-  filter: drop-shadow(20px 20px 10px crimson);
+  filter: drop-shadow(-20px -20px 10px crimson,darkred);
 }
 #ACimg2{
   display: block;
   margin-left: auto;
   border-radius: 20px 50px 20px 50px;
-  filter: drop-shadow(-20px -20px 10px crimson);
+  filter: drop-shadow(-20px -20px 10px crimson,darkred);
   
 }
 #ACimg3{
  display: block;
   margin-right: auto;
   border-radius: 50px 20px 50px 20px;
+  filter: drop-shadow(-20px -20px 10px crimson,darkred);
 }
 #ACimg4{
  display: block;
   margin-left: auto;
   border-radius: 20px 50px 20px 50px;
+  filter: drop-shadow(-20px -20px 10px crimson,darkred);
 }
 #ACimg5{
   display: block;
   margin-right: auto;
   border-radius: 50px 20px 50px 20px;
+  filter: drop-shadow(-20px -20px 10px crimson,darkred);
 }
 #ACimg6{
   display: block;
   margin-left: auto;
   border-radius: 20px 50px 20px 50px;
+  filter: drop-shadow(-20px -20px 10px crimson,darkred);
 }
 
 
