@@ -41,32 +41,35 @@ nav a{
 }
 #intro{
   font-size:20px;
-  text-transform: lowercase;
-  font-family: Bookman, serif;
+  text-transform: uppercase;
+  font-family: Bradley, cursive;
+  color:whitesmoke;
 }
 #me{
-   font-size:32px;
-   text-transform: lowercase;
-  font-family: Bookman, serif;
+   font-size:25px;
+   text-transform: uppercase;
+  font-family: Bradley, cursive;
+  color:whitesmoke;
 }
 #whatDrawn{
-  font-size:32px;
-   text-transform: lowercase;
-  font-family: Bookman, serif;
+  font-size:25px;
+   text-transform: uppercase;
+  font-family: Bradley, cursive;
   
 }
 table, th, td{
   border: 1px solid;
   text-align: center;
-   text-transform: lowercase;
-  font-family: Bookman, serif;
+   text-transform: uppercase;
+  font-family: Bradley, cursive;
+  color:whitesmoke;
   
 }
 th{
-  background-color:salmon;
-  color:white;
+  background-color:maroon;
+  color:whitesmoke;
 }
-tr:hover{background-color:lightcoral;}
+tr:hover{background-color:darkmagenta;}
 
 
 
