@@ -80,18 +80,21 @@ tr:hover{background-color:darkmagenta;}
    text-transform: uppercase;
   font-family: Bradley, cursive;
   color:whitesmoke;
+  text-shadow: 0 0 6px red, 0 0 6px purple;
 }
 #ea2{
   font-size:28px;
   text-transform: uppercase;
   font-family: Bradley, cursive;
   color:whitesmoke;
+  text-shadow: 0 0 6px red, 0 0 3px purple;
 }
 h3{
   font-size:20px;
   text-transform: uppercase;
   font-family: Bradley, cursive;
   color:whitesmoke;
+  text-shadow: 0 0 9px red, 0 0 6px purple;
   
 }
 figcaption{
