@@ -1,6 +1,290 @@
 body{
-  background-color:darkslategray;
+  background-image: linear-gradient(lightskyblue,skyblue,powderblue);
 }
-p{
+header{
+  margin:0;
+  background:yellow;
+  border-radius: 25px;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+header::after{
+  content: '';
+  display: table;
+  clear: both;
+}
+nav{
+  float: right;
+}
+nav ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li{
+  display: inline-block;
+  text-align: center;
+  margin-right: 70px;
+  padding-top: 25px;
+}
+nav a{
+  color: mediumslateblue;
+  text-decoration-style: wavy;
+  text-transform: lowercase;
+  font-family: Bookman, serif;
+}
+#about{
+  font-size:25px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
   
-  ]
+}
+#intro{
+  font-size:20px;
+  text-transform: lowercase;
+  font-family: Bookman, serif;
+}
+#me{
+   font-size:32px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+}
+#whatDrawn{
+  font-size:32px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+  
+}
+table, th, td{
+  border: 1px solid;
+  text-align: center;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+  
+}
+th{
+  background-color:salmon;
+  color:white;
+}
+tr:hover{background-color:lightcoral;}
+
+
+
+#ea1{
+  font-size:32px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+}
+#ea2{
+  font-size:28px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+}
+h3{
+  font-size:20px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+  background-color:snow;
+  border-radius: 25px;
+  width: 200px;
+  height: 150px;
+  
+}
+figcaption{
+  font-size:15px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+  
+}
+#eaimg1{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#eaimg2{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+}
+#eaimg3{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+}
+#eaimg4{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+}
+
+
+#AC{
+  font-size:32px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+}
+#AC1{
+  font-size:20px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+  background-color:snow;
+  border-radius: 25px;
+  width: 200px;
+  height: 150px;
+}
+#AC2{
+  font-size:20px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+  background-color:snow;
+  border-radius: 25px;
+  width: 200px;
+  height: 150px;
+}
+#ACimg1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#ACimg2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#ACimg3{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#ACimg4{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#ACimg5{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#ACimg6{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+
+
+
+
+#inspoT{
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+}
+
+#claudeFS{
+  font-size:18px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+}
+
+#monetT{
+  font-size:20px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+  background-color:snow;
+  border-radius: 25px;
+  width: 200px;
+  height: 150px;
+}
+#monetIMG1{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#monetIMG2{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#itoT{
+  font-size:20px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+  background-color:snow;
+  border-radius: 25px;
+  width: 200px;
+  height: 150px;
+}
+
+#itoFS{
+  font-size:18px;
+   text-transform: lowercase;
+  font-family: Bookman, serif;
+}
+#itoIMG1{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#itoIMG2{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 50%;
+  background-color:yellow;
+}
+#iVm{
+  background:turquoise;
+  padding:20px;
+  text-transform: lowercase;
+  font-family: Bookman, serif;
+}
+#ivmUl{
+  background:mediumturquoise;
+  padding:20px;
+}
+ivm > li{
+  background:paleturquoise;
+}
+#ivmUl2{
+  background:paleturquoise;
+}
+
+
