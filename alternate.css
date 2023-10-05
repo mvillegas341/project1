@@ -1,5 +1,5 @@
 body{
-  background-image: linear-gradient(lightskyblue,skyblue,powderblue);
+  background-image: url("spiral.png");
 }
 header{
   margin:0;
