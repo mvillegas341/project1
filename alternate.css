@@ -136,74 +136,51 @@ figcaption{
 
 #AC{
   font-size:32px;
-   text-transform: lowercase;
-  font-family: Bookman, serif;
+  text-transform: uppercase;
+  font-family: Bradley, cursive;
+  color:whitesmoke;
 }
 #AC1{
   font-size:20px;
-   text-transform: lowercase;
-  font-family: Bookman, serif;
-  background-color:snow;
-  border-radius: 25px;
-  width: 200px;
-  height: 150px;
+  text-transform: uppercase;
+  font-family: Bradley, cursive;
+  color:whitesmoke;
 }
 #AC2{
   font-size:20px;
-   text-transform: lowercase;
-  font-family: Bookman, serif;
-  background-color:snow;
-  border-radius: 25px;
-  width: 200px;
-  height: 150px;
+ text-transform: uppercase;
+  font-family: Bradley, cursive;
+  color:whitesmoke;
 }
 #ACimg1{
-  display: block;
-  margin-left: auto;
+ display: block;
   margin-right: auto;
-  width: 50%;
-  border-radius: 50%;
-  background-color:yellow;
+  border-radius: 50px 20px 50px 20px;
 }
 #ACimg2{
   display: block;
   margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  border-radius: 50%;
-  background-color:yellow;
+  border-radius: 20px 50px 20px 50px;
 }
 #ACimg3{
-  display: block;
-  margin-left: auto;
+ display: block;
   margin-right: auto;
-  width: 50%;
-  border-radius: 50%;
-  background-color:yellow;
+  border-radius: 50px 20px 50px 20px;
 }
 #ACimg4{
-  display: block;
+ display: block;
   margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  border-radius: 50%;
-  background-color:yellow;
+  border-radius: 20px 50px 20px 50px;
 }
 #ACimg5{
   display: block;
-  margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  border-radius: 50%;
-  background-color:yellow;
+  border-radius: 50px 20px 50px 20px;
 }
 #ACimg6{
   display: block;
   margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  border-radius: 50%;
-  background-color:yellow;
+  border-radius: 20px 50px 20px 50px;
 }
 
 
