@@ -273,6 +273,8 @@ figcaption{
 #iVm{
   background:turquoise;
   padding:20px;
+  text-transform: lowercase;
+  font-family: Bookman, serif;
 }
 #ivmUl{
   background:mediumturquoise;
